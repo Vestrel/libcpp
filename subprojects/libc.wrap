@@ -1,4 +1,4 @@
 [wrap-git]
-url = git@github.com:embeddedartistry/libc.git
+url = https://github.com/Vestrel/libc.git
 revision = head
 clone-recursive = true
